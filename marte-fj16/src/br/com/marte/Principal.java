@@ -10,10 +10,11 @@ package br.com.marte;
 public class Principal {
 
 	/**
+	 * Um estudo sobre testes. xml e padrões de projeto
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Método nativo principal
 
 	}
 
